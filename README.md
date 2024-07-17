@@ -909,13 +909,13 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 <details>
 <summary><b>How would you respond if you were the last member of the team in the office on a Friday afternoon and the product owner asks you to develop and deploy a change to production?</b></summary>
 <ul>
-    <li><b>Situation: </b>
+    <li><b>Situation: A few weeks ago, I was the only team member left in the office when the product owner approached me with an urgent request to develop and deploy a critical change to production. This change was necessary to fix a bug that was impacting a key client, and it needed to be addressed before the weekend </b>
     </li>
-    <li><b>Task: </b>
+    <li><b>Task: My task was to develop, test, and deploy the change to ensure that the client could continue their operations without any disruptions.</b>
     </li>
-    <li><b>Action: </b>
+    <li><b>Action: First, I carefully assessed the scope and impact of the requested change to ensure I fully understood what needed to be done. I then prioritized the tasks and started by writing the necessary code modifications. Once the code was ready, I conducted thorough testing in a staging environment to ensure it did not introduce any new issues. Next, I followed the deployment protocol meticulously, including running pre-deployment checks and preparing a rollback plan in case anything went wrong. I also documented the changes and informed the relevant stakeholders about the upcoming deployment. After everything was set, I proceeded with the deployment, monitoring the system closely for any issues.</b>
     </li>
-    <li><b>Result: </b>
+    <li><b>Result: The deployment was successful, and the critical bug was resolved without causing any further issues. The client was able to continue their operations smoothly, and the product owner appreciated my dedication and ability to handle the task under pressure. This experience reinforced my confidence in managing urgent and critical tasks independently, ensuring business continuity even during off-hours.</b>
     </li>
 </ul>
 </details>
