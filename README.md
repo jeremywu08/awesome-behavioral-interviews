@@ -909,13 +909,13 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 <details>
 <summary><b>How would you respond if you were the last member of the team in the office on a Friday afternoon and the product owner asks you to develop and deploy a change to production?</b></summary>
 <ul>
-    <li><b>Situation: </b>
+    <li><b>Situation: While I was woking as web developer at my previous job. The manager requested us to buind a new website to showcase our products on the webpage.</b>
     </li>
-    <li><b>Task: </b>
+    <li><b>Task: My task was to build a website which has full function.</b>
     </li>
-    <li><b>Action: </b>
+    <li><b>Action: I analysed this project and thought of it was a good chance to present our team's skills and value. Therefore, we started to seperate the tasks to each team member.</b>
     </li>
-    <li><b>Result: </b>
+    <li><b>Result: The project was sucessfully completed, and the website runs well and deliver full functionality to the customers.</b>
     </li>
 </ul>
 </details>
